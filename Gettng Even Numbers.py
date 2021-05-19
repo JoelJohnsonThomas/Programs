@@ -8,6 +8,6 @@ l.sort()  # arranging the numbers in ascending order
 print("The given list:", l)
 for j in l:
     if j % 2 == 0:  # to fetch the prime numbers 
-        print("Prime number:", j)
+        print("Even Number:", j)
     else:   # to fetch  the composite numbers
-        print("composite number:", j)
+        print("Odd number:", j)
